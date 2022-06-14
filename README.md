@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsJerrBear
 
-- 👀 I’m interested in .NET/C#/SQL and building powerful and responsive APIs and web applications
+- 👀 I’m interested in .NET/C#/SQL and building powerful, secure and responsive APIs and web applications
 - 🌱 I’m currently learning ... Angular / RazorPages / Blazor
 - 💞️ I’m looking to collaborate on ... Framework POCs / SaaS projects 
 - 📫 How to reach me ... jdaxelro@gmail.com
